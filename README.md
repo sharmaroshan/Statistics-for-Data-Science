@@ -1,4 +1,4 @@
-# Statistics and Probability for Data Science
+# Statistics & Probability for Data Science
 
 ![image](https://wpforms.com/wp-content/uploads/2019/02/online-business-statistics.jpg)
 
